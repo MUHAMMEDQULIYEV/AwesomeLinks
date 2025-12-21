@@ -20,6 +20,11 @@ A curated collection of useful resources for AI, Machine Learning, Data Science,
 | [GFG Web Dev Career Guide](https://www.geeksforgeeks.org/blogs/why-learning-web-development-is-a-great-career-move-in-2025/) | Web development career insights |
 | [Web Dev Terminologies](https://www.geeksforgeeks.org/web-tech/terminologies-of-web-development/) | Web development glossary |
 | [Microservices System Design](https://www.geeksforgeeks.org/system-design/microservices/) | Microservices architecture guide |
+| [KDN - Learn Programming for DS](https://www.kdnuggets.com/how-to-learn-programming-for-data-science-a-roadmap-for-beginners) | Programming roadmap for data science beginners |
+| [KDN - Learn AI for Analytics](https://www.kdnuggets.com/how-to-learn-ai-for-data-analytics-in-2025) | AI learning path for data analytics |
+| [KDN - Data Science No Degree](https://www.kdnuggets.com/data-science-no-degree) | Learn data science without formal degree |
+| [KDN - Generative AI Roadmap](https://www.kdnuggets.com/generative-ai-a-self-study-roadmap) | Self-study roadmap for generative AI |
+| [KDN - Mastering Vibe Coding](https://www.kdnuggets.com/7-steps-to-mastering-vibe-coding) | 7 steps to master vibe coding |
 
 ---
 
@@ -29,6 +34,8 @@ A curated collection of useful resources for AI, Machine Learning, Data Science,
 |----------|-------------|
 | [Deep-ML](https://www.deep-ml.com/) | Machine learning coding challenges |
 | [HackerRank Contests](https://www.hackerrank.com/contests/hl/challenges) | Programming competitions |
+| [KDN - Clean Python Code](https://www.kdnuggets.com/stop-writing-messy-python-a-clean-code-crash-course) | Clean code crash course for Python |
+| [KDN - Data Cleaning Pipeline](https://www.kdnuggets.com/build-a-data-cleaning-validation-pipeline-in-under-50-lines-of-python) | Build data validation pipeline in 50 lines |
 
 ---
 
@@ -45,6 +52,8 @@ A curated collection of useful resources for AI, Machine Learning, Data Science,
 | [n8n](https://n8n.io/) | Workflow automation tool |
 | [Qwen AI Chat](https://chat.qwen.ai/) | Advanced AI chat interface |
 | [Luni App](https://www.luni.app/) | AI-powered application |
+| [KDN - NotebookLM Deep Research](https://www.kdnuggets.com/notebooklm-deep-research-the-ultimate-learning-hack) | Ultimate learning hack with NotebookLM |
+| [KDN - AI-First Google Colab](https://www.kdnuggets.com/ai-first-google-colab-is-all-you-need) | AI-first approach with Google Colab |
 
 ---
 
@@ -72,6 +81,8 @@ A curated collection of useful resources for AI, Machine Learning, Data Science,
 | [Data Science Central](https://www.datasciencecentral.com/category/technical-topics/data-science/) | Technical articles and tutorials |
 | [Lilian Weng - Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) | In-depth prompt engineering guide |
 | [Lilian Weng - LLM Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) | Comprehensive guide on LLM agents |
+| [KDN - 10 GitHub Repos for Web Dev](https://www.kdnuggets.com/10-github-repositories-to-master-web-development-in-2025) | Top GitHub repos for web development |
+| [KDN - 10 GitHub Repos for ML](https://www.kdnuggets.com/10-github-repositories-to-master-machine-learning) | Essential GitHub repos for ML mastery |
 
 ---
 
@@ -117,6 +128,7 @@ A curated collection of useful resources for AI, Machine Learning, Data Science,
 |----------|-------------|
 | [OpenCV Turkish Tutorial](https://gelecegiyazanlar.turkcell.com.tr/konu/opencv) | Computer vision library guide |
 | [Nilearn](https://nilearn.github.io/stable/index.html) | Neuroimaging in Python |
+| [KDN - Python Automation Tools](https://www.kdnuggets.com/top-5-python-automation-tools-you-need-to-know) | Top 5 Python automation tools |
 
 ---
 
@@ -140,6 +152,8 @@ A curated collection of useful resources for AI, Machine Learning, Data Science,
 | [David Hckh Portfolio](https://david-hckh.com/) | Creative web portfolio |
 | [Bruno Simon Portfolio](https://bruno-simon.com/) | Interactive 3D portfolio |
 | [Digital Technology Playbook](https://preparecenter.org/wp-content/uploads/2022/11/DTPB_V1.pdf) | Digital technology guide (PDF) |
+| [KDN - Side Project Marketplaces](https://www.kdnuggets.com/selling-your-side-project-10-marketplaces-data-scientists-need-to-know) | 10 marketplaces for selling data projects |
+| [KDN - Job Application Mistakes](https://www.kdnuggets.com/7-mistakes-data-scientists-make-when-applying-for-jobs) | Common mistakes in DS job applications |
 
 ---
 
