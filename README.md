@@ -8,15 +8,24 @@ A comprehensive, curated collection of resources for AI, Machine Learning, Data 
 
 | Repository | Description |
 |----------|-------------|
+| [OSSU Computer Science](https://github.com/ossu/computer-science) | Complete free self-taught education in Computer Science following university CS curriculum |
 | [OSSU Data Science](https://github.com/ossu/data-science) | Complete open-source university-level data science curriculum with structured path from basics to advanced topics |
 | [Microsoft - Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) | Comprehensive 12-lesson course on building Generative AI applications by Microsoft |
 | [Microsoft - ML for Beginners](https://github.com/microsoft/ML-For-Beginners) | 26-lesson curriculum covering classical machine learning fundamentals with hands-on projects |
+| [Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) | Free 4-month online bootcamp covering ML engineering with practical projects and community support |
+| [Made With ML](https://github.com/GokuMohandas/Made-With-ML) | Complete MLOps course covering production ML, from design to deployment, with hands-on projects |
 | [Data Science Roadmap](https://github.com/AzizNadirov/ds-roadmap) | Structured roadmap and learning path for becoming a data scientist |
 | [100 Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | 100-day structured ML learning challenge with daily topics and implementations |
+| [365 Days Computer Vision](https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post) | Year-long daily computer vision learning journey with LinkedIn posts covering theory to practice |
 | [Complete Data Science with ML & NLP 2024](https://github.com/krishnaik06/Complete-Data-Science-With-Machine-Learning-And-NLP-2024) | End-to-end data science course covering machine learning, deep learning, and NLP |
+| [CS Video Courses](https://github.com/Developer-Y/cs-video-courses) | Massive collection of computer science courses with video lectures from top universities |
+| [AI Study Group](https://github.com/ArturoNereu/AI-Study-Group) | Collaborative AI learning group with resources, projects, and structured study materials |
 | [Awesome ML Courses](https://github.com/luspr/awesome-ml-courses) | Curated list of high-quality machine learning courses from universities and online platforms |
 | [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) | Comprehensive collection of free ML courses and lectures available on YouTube |
+| [Machine Learning Specialization - Coursera](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera) | Complete materials from Andrew Ng's Machine Learning Specialization with assignments and notes |
 | [You Are Pythonista](https://github.com/kylinyang0/You-are-Pythonista) | Complete Python learning resources and roadmap for becoming a Python expert |
+| [Corey Schafer Code Snippets](https://github.com/CoreyMSchafer/code_snippets) | Code examples from Corey Schafer's popular programming tutorial YouTube channel |
+| [AsyncIO Learning Path](https://github.com/ShahriyarR/AsyncIO_Learning_Path) | Comprehensive guide to learning asynchronous programming in Python with AsyncIO |
 
 ---
 
@@ -25,9 +34,14 @@ A comprehensive, curated collection of resources for AI, Machine Learning, Data 
 | Repository | Description |
 |----------|-------------|
 | [Mathematics for Machine Learning Book](https://github.com/mml-book/mml-book.github.io) | Open-source book covering essential mathematics for ML: linear algebra, probability, and optimization |
+| [MIT Deep Learning Book PDF](https://github.com/janishar/mit-deep-learning-book-pdf) | Free PDF of the comprehensive MIT Deep Learning textbook by Ian Goodfellow, Yoshua Bengio, and Aaron Courville |
 | [Hands-On Machine Learning (2nd Edition)](https://github.com/ageron/handson-ml2) | Code notebooks and resources for the bestselling ML book by Aurélien Géron using Scikit-Learn, Keras & TensorFlow |
+| [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | Comprehensive guide to building applications with large language models from fundamentals to deployment |
 | [Introduction to Statistical Learning - Python](https://github.com/0xHadyy/isl-python) | Python implementation of exercises and examples from the popular ISL statistics textbook |
 | [Deep Learning Books Collection](https://github.com/wdp-007/Deep-learning-books) | Curated collection of essential deep learning books and resources in PDF format |
+| [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) | Massive collection of free programming books, courses, and resources in multiple languages (300k+ stars) |
+| [Books Collection](https://github.com/gmoral/Books) | Curated collection of programming, data science, and computer science books |
+| [Fundamental Math for ML](https://github.com/sonasejidli/Fundamental-Math-for-ML) | Essential mathematics foundations for machine learning including linear algebra, calculus, and statistics |
 
 ---
 
@@ -36,12 +50,19 @@ A comprehensive, curated collection of resources for AI, Machine Learning, Data 
 | Repository | Description |
 |----------|-------------|
 | [PyTorch](https://github.com/pytorch/pytorch) | Leading deep learning framework with dynamic computation graphs, widely used in research and production |
+| [TensorFlow](https://github.com/tensorflow/tensorflow) | Google's end-to-end open-source machine learning platform with comprehensive ecosystem (180k+ stars) |
 | [TensorFlow/Keras](https://github.com/keras-team/keras) | High-level neural networks API, now integrated with TensorFlow, designed for fast experimentation |
+| [Google Flax](https://github.com/google/flax) | Neural network library built on JAX for high-performance ML research with flexibility |
 | [Scikit-Learn](https://github.com/scikit-learn/scikit-learn) | Industry-standard ML library for Python with algorithms for classification, regression, clustering, and more |
 | [Hugging Face Transformers](https://github.com/huggingface/transformers) | State-of-the-art NLP library with pre-trained models for BERT, GPT, T5, and other transformer architectures |
+| [LangChain](https://github.com/langchain-ai/langchain) | Framework for developing LLM applications with chains, agents, and memory - most popular LLM development tool |
+| [Langflow](https://github.com/langflow-ai/langflow) | Visual framework for building LangChain applications with drag-and-drop UI components |
 | [OpenCV](https://github.com/opencv/opencv) | Comprehensive open-source computer vision and image processing library with 2500+ optimized algorithms |
 | [Facebook AI Similarity Search (FAISS)](https://github.com/facebookresearch/faiss) | Efficient library for similarity search and clustering of dense vectors, essential for large-scale ML |
 | [Roboflow Supervision](https://github.com/roboflow/supervision) | Computer vision toolkit for working with object detection, segmentation, and tracking models |
+| [CPython](https://github.com/python/cpython) | Official Python programming language implementation in C, the reference implementation |
+| [Django](https://github.com/django/django) | High-level Python web framework for building robust, scalable web applications rapidly |
+| [Seaborn](https://github.com/mwaskom/seaborn) | Statistical data visualization library built on matplotlib with beautiful default styles and color palettes |
 
 ---
 
@@ -51,6 +72,14 @@ A comprehensive, curated collection of resources for AI, Machine Learning, Data 
 |----------|-------------|
 | [UV - Python Package Manager](https://github.com/astral-sh/uv) | Extremely fast Python package installer and resolver written in Rust, 10-100x faster than pip |
 | [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) | Learn by building your own versions of popular technologies (databases, compilers, web servers, etc.) |
+| [eBook2Audiobook](https://github.com/DrewThomasson/ebook2audiobook) | Convert eBooks (PDF, EPUB) to audiobooks using text-to-speech with various voice options |
+| [TextLasso](https://github.com/AzizNadirov/textlasso) | Advanced text extraction and processing tool for NLP pipelines and data preparation |
+| [App Ideas](https://github.com/florinpop17/app-ideas) | Collection of 100+ application ideas to improve coding skills across different difficulty levels |
+| [System Design Primer](https://github.com/donnemartin/system-design-primer) | Comprehensive guide to learning system design with examples, diagrams, and interview prep |
+| [OS Tutorial](https://github.com/cfenollosa/os-tutorial) | How to create an operating system from scratch - step-by-step tutorial |
+| [Learn CUDA Programming](https://github.com/PacktPublishing/Learn-CUDA-Programming) | Complete guide to CUDA programming for GPU-accelerated computing and parallel processing |
+| [Matplotlib Tutorial](https://github.com/rougier/matplotlib-tutorial) | Comprehensive matplotlib tutorial covering visualization techniques from basics to advanced |
+| [Black Hole Visualization](https://github.com/kavan010/black_hole) | Creative black hole visualization project demonstrating advanced graphics and physics simulation |
 
 ---
 
@@ -59,31 +88,65 @@ A comprehensive, curated collection of resources for AI, Machine Learning, Data 
 | Repository | Description |
 |----------|-------------|
 | [SimplifyJobs - New Grad Positions](https://github.com/SimplifyJobs/New-Grad-Positions) | Daily-updated collection of new graduate software engineering and ML positions with application links |
+| [Machine Learning Interview](https://github.com/khangich/machine-learning-interview) | Comprehensive collection of ML interview questions covering theory, algorithms, and system design |
+| [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) | Extensive list of back-end interview questions covering architecture, databases, and best practices |
 | [Awesome LeetCode Resources](https://github.com/ashishps1/awesome-leetcode-resources) | Curated patterns, templates, and structured approach to mastering LeetCode coding interview problems |
+| [Free Certifications](https://github.com/cloudcommunity/Free-Certifications) | Curated list of free professional certifications in cloud, security, development, and IT |
 
 ---
 
 ## 🎯 GitHub Repositories - Specialized Topics & Project Collections
 
+### Machine Learning Fundamentals & Implementation
+| Repository | Description |
+|----------|-------------|
+| [ML From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) | Python implementations of ML algorithms from scratch with clear, educational code |
+| [LeCun 1989 Reproduction](https://github.com/karpathy/lecun1989-repro) | Andrej Karpathy's reproduction of Yann LeCun's 1989 paper on backpropagation for handwritten digit recognition |
+| [L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) | Advanced ML experimentation and research project exploring novel architectures |
+
 ### Computer Vision Projects
 | Repository | Description |
 |----------|-------------|
 | [Computer Vision Projects Collection](https://github.com/Aryan-Chharia/Computer-Vision-Projects) | Diverse portfolio of computer vision projects covering object detection, segmentation, and recognition |
+| [Learn OpenCV](https://github.com/spmallick/learnopencv) | Comprehensive collection of OpenCV tutorials and projects from beginner to advanced level |
 | [Plant Disease Detection](https://github.com/manthan89-py/Plant-Disease-Detection) | Deep learning model for identifying and classifying plant diseases from leaf images using CNN |
 | [Automatic Leaf Infection Identifier](https://github.com/johri-lab/Automatic-leaf-infection-identifier) | Automated system for detecting and analyzing leaf infections using machine learning techniques |
+| [Dogs Emotional Behaviour Classification](https://github.com/orujovshah/Classification-of-Dogs-Emotional-Behaviour) | ML model for classifying and analyzing dogs' emotional states from images and videos |
 
 ### Python Practice & Projects
 | Repository | Description |
 |----------|-------------|
 | [Code Sleep Python](https://github.com/prateekiiest/Code-Sleep-Python) | Collection of Python scripts for beginners covering automation, algorithms, and real-world projects |
 | [Python Fun](https://github.com/patrickloeber/python-fun) | Fun and engaging Python projects with tutorials for learning through hands-on practice |
+| [100 Pandas Puzzles](https://github.com/ajcr/100-pandas-puzzles) | 100 data analysis challenges using pandas to master DataFrame operations and data manipulation |
 | [DSA Essentials Course](https://github.com/coding-minutes/dsa-essentials-course) | Comprehensive Data Structures and Algorithms course materials with coding challenges |
 
-### Curated Resource Lists
+### Machine Learning Tutorials & Resource Lists
 | Repository | Description |
 |----------|-------------|
+| [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | Curated list of ML frameworks, libraries, and software across all programming languages (47k+ stars) |
 | [Awesome Data Science](https://github.com/academic/awesome-datascience) | Massive curated list of data science resources, tutorials, libraries, and career paths |
+| [Awesome Python (Dylan Hogg)](https://github.com/dylanhogg/awesome-python) | Carefully curated list of awesome Python frameworks, libraries, and resources with quality rankings |
+| [Awesome Production ML](https://github.com/EthicalML/awesome-production-machine-learning) | Curated list of tools and frameworks for deploying, monitoring, and maintaining production ML systems |
+| [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) | Comprehensive collection of ML tutorials, articles, and resources for all skill levels |
+| [Stanford CS-229 Machine Learning](https://github.com/afshinea/stanford-cs-229-machine-learning) | VIP cheatsheets and materials from Stanford's famous CS 229 Machine Learning course |
+| [Data Science Tutorials](https://github.com/balapriyac/data-science-tutorials) | Collection of hands-on data science tutorials covering analytics, visualization, and ML |
 | [Applied ML](https://github.com/eugeneyan/applied-ml) | Curated papers and articles on data science & ML in production environments from top tech companies |
+| [Awesome N8N Templates](https://github.com/enescingoz/awesome-n8n-templates) | Collection of workflow automation templates for n8n covering various use cases and integrations |
+
+### Financial Machine Learning & Trading
+| Repository | Description |
+|----------|-------------|
+| [Stock Prediction AI](https://github.com/borisbanushev/stockpredictionai) | Advanced deep learning model for stock price prediction using LSTM and sentiment analysis |
+| [Stock Prediction Models](https://github.com/huseinzol05/Stock-Prediction-Models) | Collection of 30+ stock prediction models including LSTM, GRU, and transformer-based approaches |
+| [Deep Learning ML Stock](https://github.com/LastAncientOne/Deep_Learning_Machine_Learning_Stock) | Comprehensive collection of ML and DL models for stock market prediction and analysis |
+| [yfinance](https://github.com/ranaroussi/yfinance) | Python library for downloading market data from Yahoo Finance API with pandas integration |
+| [Fast-F1](https://github.com/theOehrly/Fast-F1) | Python library for accessing and analyzing Formula 1 timing data and telemetry |
+
+### Massive Project Collections
+| Repository | Description |
+|----------|-------------|
+| [500 AI/ML/DL/CV/NLP Projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | Massive collection of 500+ AI and ML projects with source code covering all major domains |
 
 ---
 
@@ -192,6 +255,7 @@ A comprehensive, curated collection of resources for AI, Machine Learning, Data 
 | [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps?sfnsn=wa) | Curated list of production-ready LLM applications with source code |
 | [LangChain API Reference](https://api.python.langchain.com/en/latest/langchain_api_reference.html) | Complete API documentation for building LLM-powered applications with LangChain |
 | [Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel) | Microsoft's SDK for integrating LLMs with conventional programming languages |
+| [FREE OpenAI API Keys](https://github.com/dan1471/FREE-openai-api-keys) | Collection of free OpenAI API key alternatives and workarounds for testing and development |
 
 ---
 
