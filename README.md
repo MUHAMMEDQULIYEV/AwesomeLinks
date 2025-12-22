@@ -287,6 +287,22 @@ A comprehensive, curated collection of resources for AI, Machine Learning, Data 
 
 ---
 
+## 🎥 YouTube Channels
+
+| Channel | Description |
+|----------|-------------|
+| [Fireship](https://www.youtube.com/@Fireship) | High-intensity code tutorials and tech news in 100 seconds, covering web dev, AI, and software engineering |
+| [Corey Schafer](https://www.youtube.com/@coreyms) | In-depth Python programming tutorials, web development, and software engineering best practices |
+| [Linus Tech Tips](https://www.youtube.com/@LinusTechTips) | Tech reviews, PC builds, and cutting-edge hardware coverage with entertainment and education |
+| [Green Code](https://www.youtube.com/@Green-Code) | Programming tutorials and coding education content |
+
+### Featured Videos
+| Video | Description |
+|----------|-------------|
+| [Video Tutorial](https://www.youtube.com/watch?v=XP9Zg--DLr8) | Educational programming tutorial |
+
+---
+
 ## 📖 Additional Resources & Inspiration
 
 | Resource | Description |
