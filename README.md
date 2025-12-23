@@ -33,6 +33,7 @@ A comprehensive, curated collection of resources for AI, Machine Learning, Data 
 
 | Repository | Description |
 |----------|-------------|
+| [LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch) | Build large language models from the ground up with clear code and step-by-step explanations |
 | [Mathematics for Machine Learning Book](https://github.com/mml-book/mml-book.github.io) | Open-source book covering essential mathematics for ML: linear algebra, probability, and optimization |
 | [MIT Deep Learning Book PDF](https://github.com/janishar/mit-deep-learning-book-pdf) | Free PDF of the comprehensive MIT Deep Learning textbook by Ian Goodfellow, Yoshua Bengio, and Aaron Courville |
 | [Hands-On Machine Learning (2nd Edition)](https://github.com/ageron/handson-ml2) | Code notebooks and resources for the bestselling ML book by Aurélien Géron using Scikit-Learn, Keras & TensorFlow |
@@ -49,6 +50,7 @@ A comprehensive, curated collection of resources for AI, Machine Learning, Data 
 
 | Repository | Description |
 |----------|-------------|
+| [LocalAI](https://github.com/mudler/LocalAI) | Free, open-source OpenAI alternative for running LLMs locally with no GPU required, compatible with OpenAI API |
 | [PyTorch](https://github.com/pytorch/pytorch) | Leading deep learning framework with dynamic computation graphs, widely used in research and production |
 | [TensorFlow](https://github.com/tensorflow/tensorflow) | Google's end-to-end open-source machine learning platform with comprehensive ecosystem (180k+ stars) |
 | [TensorFlow/Keras](https://github.com/keras-team/keras) | High-level neural networks API, now integrated with TensorFlow, designed for fast experimentation |
@@ -100,6 +102,7 @@ A comprehensive, curated collection of resources for AI, Machine Learning, Data 
 ### Machine Learning Fundamentals & Implementation
 | Repository | Description |
 |----------|-------------|
+| [Heart Disease Prediction using ML](https://github.com/g-shreekant/Heart-Disease-Prediction-using-Machine-Learning) | Machine learning model for predicting heart disease using various classification algorithms and medical data |
 | [ML From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) | Python implementations of ML algorithms from scratch with clear, educational code |
 | [LeCun 1989 Reproduction](https://github.com/karpathy/lecun1989-repro) | Andrej Karpathy's reproduction of Yann LeCun's 1989 paper on backpropagation for handwritten digit recognition |
 | [L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) | Advanced ML experimentation and research project exploring novel architectures |
