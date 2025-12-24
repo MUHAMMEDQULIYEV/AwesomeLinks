@@ -1,0 +1,40 @@
+# 🛠️ Development Tools & Utilities
+
+Essential development tools, utilities, and resources for building software and improving development workflows.
+
+## Package Management & Build Tools
+
+| Repository | Difficulty | Description |
+|----------|------------|-------------|
+| [UV - Python Package Manager](https://github.com/astral-sh/uv) | `[Intermediate]` | Extremely fast Python package installer and resolver written in Rust, 10-100x faster than pip |
+
+## Learning by Building
+
+| Repository | Difficulty | Description |
+|----------|------------|-------------|
+| [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) | `[Intermediate - Advanced]` | Learn by building your own versions of popular technologies (databases, compilers, web servers, etc.) |
+| [App Ideas](https://github.com/florinpop17/app-ideas) | `[All Levels]` | Collection of 100+ application ideas to improve coding skills across different difficulty levels |
+
+## Specialized Utilities
+
+| Repository | Difficulty | Description |
+|----------|------------|-------------|
+| [eBook2Audiobook](https://github.com/DrewThomasson/ebook2audiobook) | `[Beginner]` | Convert eBooks (PDF, EPUB) to audiobooks using text-to-speech with various voice options |
+| [TextLasso](https://github.com/AzizNadirov/textlasso) | `[Intermediate]` | Advanced text extraction and processing tool for NLP pipelines and data preparation |
+
+## System Design & Architecture
+
+| Repository | Difficulty | Description |
+|----------|------------|-------------|
+| [System Design Primer](https://github.com/donnemartin/system-design-primer) | `[Intermediate - Advanced]` | Comprehensive guide to learning system design with examples, diagrams, and interview prep |
+
+## Visualization & Graphics
+
+| Repository | Difficulty | Description |
+|----------|------------|-------------|
+| [Matplotlib Tutorial](https://github.com/rougier/matplotlib-tutorial) | `[Beginner - Intermediate]` | Comprehensive matplotlib tutorial covering visualization techniques from basics to advanced |
+| [Black Hole Visualization](https://github.com/kavan010/black_hole) | `[Advanced]` | Creative black hole visualization project demonstrating advanced graphics and physics simulation |
+
+---
+
+[← Back to Main](../README.md)
