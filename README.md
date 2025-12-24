@@ -78,8 +78,6 @@ A comprehensive, curated collection of resources for AI, Machine Learning, Data 
 | [TextLasso](https://github.com/AzizNadirov/textlasso) | Advanced text extraction and processing tool for NLP pipelines and data preparation |
 | [App Ideas](https://github.com/florinpop17/app-ideas) | Collection of 100+ application ideas to improve coding skills across different difficulty levels |
 | [System Design Primer](https://github.com/donnemartin/system-design-primer) | Comprehensive guide to learning system design with examples, diagrams, and interview prep |
-| [OS Tutorial](https://github.com/cfenollosa/os-tutorial) | How to create an operating system from scratch - step-by-step tutorial |
-| [Learn CUDA Programming](https://github.com/PacktPublishing/Learn-CUDA-Programming) | Complete guide to CUDA programming for GPU-accelerated computing and parallel processing |
 | [Matplotlib Tutorial](https://github.com/rougier/matplotlib-tutorial) | Comprehensive matplotlib tutorial covering visualization techniques from basics to advanced |
 | [Black Hole Visualization](https://github.com/kavan010/black_hole) | Creative black hole visualization project demonstrating advanced graphics and physics simulation |
 
@@ -91,9 +89,20 @@ A comprehensive, curated collection of resources for AI, Machine Learning, Data 
 |----------|-------------|
 | [SimplifyJobs - New Grad Positions](https://github.com/SimplifyJobs/New-Grad-Positions) | Daily-updated collection of new graduate software engineering and ML positions with application links |
 | [Machine Learning Interview](https://github.com/khangich/machine-learning-interview) | Comprehensive collection of ML interview questions covering theory, algorithms, and system design |
+| [ML System Design Case Studies](https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies) | Curated collection of real-world ML system design case studies from top tech companies covering architecture, scaling, and deployment patterns |
 | [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) | Extensive list of back-end interview questions covering architecture, databases, and best practices |
 | [Awesome LeetCode Resources](https://github.com/ashishps1/awesome-leetcode-resources) | Curated patterns, templates, and structured approach to mastering LeetCode coding interview problems |
 | [Free Certifications](https://github.com/cloudcommunity/Free-Certifications) | Curated list of free professional certifications in cloud, security, development, and IT |
+
+---
+
+## 🐧 GitHub Repositories - Linux & Systems Programming
+
+| Repository | Description |
+|----------|-------------|
+| [Learning Linux](https://github.com/pwittchen/learning-linux) | Comprehensive collection of Linux resources, tutorials, commands, and best practices for mastering Linux systems administration |
+| [OS Tutorial](https://github.com/cfenollosa/os-tutorial) | How to create an operating system from scratch - step-by-step tutorial |
+| [Learn CUDA Programming](https://github.com/PacktPublishing/Learn-CUDA-Programming) | Complete guide to CUDA programming for GPU-accelerated computing and parallel processing |
 
 ---
 
