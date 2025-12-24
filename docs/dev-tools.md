@@ -14,6 +14,7 @@ Essential development tools, utilities, and resources for building software and 
 |----------|------------|-------------|
 | [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) | `[Intermediate - Advanced]` | Learn by building your own versions of popular technologies (databases, compilers, web servers, etc.) |
 | [App Ideas](https://github.com/florinpop17/app-ideas) | `[All Levels]` | Collection of 100+ application ideas to improve coding skills across different difficulty levels |
+| [Learn API Design](https://github.com/dwyl/learn-api-design) | `[Intermediate]` | Essential learning for designing performant, scalable RESTful APIs covering best practices, testing, documentation, and real-world examples |
 
 ## Specialized Utilities
 

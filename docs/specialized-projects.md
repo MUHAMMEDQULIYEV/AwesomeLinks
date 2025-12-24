@@ -44,6 +44,12 @@ Hands-on projects and specialized implementations across various domains of AI, 
 | [Applied ML](https://github.com/eugeneyan/applied-ml) | `[Advanced]` | Curated papers and articles on data science & ML in production environments from top tech companies |
 | [Awesome N8N Templates](https://github.com/enescingoz/awesome-n8n-templates) | `[Intermediate]` | Collection of workflow automation templates for n8n covering various use cases and integrations |
 
+## API & Data Services
+
+| Repository | Difficulty | Description |
+|----------|------------|-------------|
+| [Jolpica F1](https://github.com/jolpica/jolpica-f1) | `[Intermediate]` | Open-source Formula 1 data API with backward-compatible Ergast API endpoints, providing race data, standings, and statistics |
+
 ## Financial Machine Learning & Trading
 
 | Repository | Difficulty | Description |
