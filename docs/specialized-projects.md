@@ -25,6 +25,7 @@ Hands-on projects and specialized implementations across various domains of AI, 
 
 | Repository | Difficulty | Description |
 |----------|------------|-------------|
+| [Awesome Python Projects](https://github.com/kishanrajput23/Awesome-Python-Projects) | `[All Levels]` | Large collection of Python projects ranging from beginner to advanced with practical implementations |
 | [Code Sleep Python](https://github.com/prateekiiest/Code-Sleep-Python) | `[Beginner]` | Collection of Python scripts for beginners covering automation, algorithms, and real-world projects |
 | [Python Fun](https://github.com/patrickloeber/python-fun) | `[Beginner - Intermediate]` | Fun and engaging Python projects with tutorials for learning through hands-on practice |
 | [100 Pandas Puzzles](https://github.com/ajcr/100-pandas-puzzles) | `[Beginner - Intermediate]` | 100 data analysis challenges using pandas to master DataFrame operations and data manipulation |

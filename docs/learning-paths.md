@@ -31,6 +31,7 @@ Complete structured learning paths and comprehensive curricula for mastering com
 | [Awesome ML Courses](https://github.com/luspr/awesome-ml-courses) | `[All Levels]` | Curated list of high-quality machine learning courses from universities and online platforms |
 | [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) | `[All Levels]` | Comprehensive collection of free ML courses and lectures available on YouTube |
 | [Machine Learning Specialization - Coursera](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera) | `[Beginner - Intermediate]` | Complete materials from Andrew Ng's Machine Learning Specialization with assignments and notes |
+| [scikit-learn Tutorial](https://github.com/jakevdp/sklearn_tutorial) | `[Beginner - Intermediate]` | Comprehensive scikit-learn tutorial covering machine learning fundamentals and practical implementations |
 
 ## Python Learning Resources
 

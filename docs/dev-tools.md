@@ -20,6 +20,7 @@ Essential development tools, utilities, and resources for building software and 
 
 | Repository | Difficulty | Description |
 |----------|------------|-------------|
+| [python-docx](https://github.com/python-openxml/python-docx) | `[Beginner - Intermediate]` | Python library for creating and updating Microsoft Word (.docx) files programmatically |
 | [eBook2Audiobook](https://github.com/DrewThomasson/ebook2audiobook) | `[Beginner]` | Convert eBooks (PDF, EPUB) to audiobooks using text-to-speech with various voice options |
 | [TextLasso](https://github.com/AzizNadirov/textlasso) | `[Intermediate]` | Advanced text extraction and processing tool for NLP pipelines and data preparation |
 
@@ -33,6 +34,7 @@ Essential development tools, utilities, and resources for building software and 
 
 | Repository | Difficulty | Description |
 |----------|------------|-------------|
+| [Streamlit](https://github.com/streamlit/streamlit) | `[Beginner - Intermediate]` | Fast way to build and share data apps - turn Python scripts into interactive web apps with minimal code |
 | [Matplotlib Tutorial](https://github.com/rougier/matplotlib-tutorial) | `[Beginner - Intermediate]` | Comprehensive matplotlib tutorial covering visualization techniques from basics to advanced |
 | [Black Hole Visualization](https://github.com/kavan010/black_hole) | `[Advanced]` | Creative black hole visualization project demonstrating advanced graphics and physics simulation |
 
