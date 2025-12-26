@@ -25,6 +25,7 @@ Modern AI tools, platforms, and applications for working with large language mod
 |----------|------------|-------------|
 | [n8n](https://n8n.io/) | `[Beginner - Intermediate]` | Fair-code workflow automation tool with 300+ integrations, self-hostable alternative to Zapier |
 | [Luni App](https://www.luni.app/) | `[Beginner]` | AI-powered productivity application |
+| [Antigravity Tools](https://github.com/lbjlaq/Antigravity-Manager) | `[Intermediate - Advanced]` | Personal high-performance AI dispatching gateway and account manager - converts web sessions to API, supports OpenAI/Anthropic/Gemini protocols, built with Tauri + Rust |
 
 ## AI Agents & LLM Application Resources
 
