@@ -7,6 +7,13 @@ Essential development tools, utilities, and resources for building software and 
 | Repository | Difficulty | Description |
 |----------|------------|-------------|
 | [UV - Python Package Manager](https://github.com/astral-sh/uv) | `[Intermediate]` | Extremely fast Python package installer and resolver written in Rust, 10-100x faster than pip |
+| [Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | `[Intermediate]` | Modern Python package manager with advanced dependency resolution and project management features |
+
+## Developer Reference & Cheatsheets
+
+| Repository | Difficulty | Description |
+|----------|------------|-------------|
+| [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | `[All Levels]` | Comprehensive collection of cheatsheets for popular programming languages, frameworks, and development tools |
 
 ## Learning by Building
 

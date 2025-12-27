@@ -51,6 +51,12 @@ Essential libraries and frameworks for machine learning, deep learning, and AI d
 | [CPython](https://github.com/python/cpython) | `[Advanced]` | Official Python programming language implementation in C, the reference implementation |
 | [Django](https://github.com/django/django) | `[Intermediate]` | High-level Python web framework for building robust, scalable web applications rapidly |
 
+## Reinforcement Learning & Trading
+
+| Repository | Difficulty | Description |
+|----------|------------|-------------|
+| [TensorTrade](https://github.com/tensortrade-org/tensortrade) | `[Intermediate - Advanced]` | Open-source framework for building, training, and evaluating RL trading agents using TensorFlow and PyTorch |
+
 ## Data Visualization
 
 | Repository | Difficulty | Description |
