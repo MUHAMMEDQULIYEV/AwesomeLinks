@@ -17,6 +17,7 @@ Hands-on projects and specialized implementations across various domains of AI, 
 |----------|------------|-------------|
 | [Computer Vision Projects Collection](https://github.com/Aryan-Chharia/Computer-Vision-Projects) | `[Intermediate]` | Diverse portfolio of computer vision projects covering object detection, segmentation, and recognition |
 | [Learn OpenCV](https://github.com/spmallick/learnopencv) | `[Beginner - Advanced]` | Comprehensive collection of OpenCV tutorials and projects from beginner to advanced level |
+| [Breast Cancer Classifier](https://github.com/nyukat/breast_cancer_classifier) | `[Advanced]` | Deep learning model for breast cancer classification from mammography images |
 | [Plant Disease Detection](https://github.com/manthan89-py/Plant-Disease-Detection) | `[Intermediate]` | Deep learning model for identifying and classifying plant diseases from leaf images using CNN |
 | [Automatic Leaf Infection Identifier](https://github.com/johri-lab/Automatic-leaf-infection-identifier) | `[Intermediate]` | Automated system for detecting and analyzing leaf infections using machine learning techniques |
 | [Dogs Emotional Behaviour Classification](https://github.com/orujovshah/Classification-of-Dogs-Emotional-Behaviour) | `[Intermediate]` | ML model for classifying and analyzing dogs' emotional states from images and videos |
