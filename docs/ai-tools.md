@@ -10,6 +10,7 @@ Modern AI tools, platforms, and applications for working with large language mod
 | [Google AI Studio](https://aistudio.google.com/prompts/new_chat) | `[Beginner - Intermediate]` | Google's AI experimentation platform for prototyping with Gemini models |
 | [Groq Playground](https://console.groq.com/playground) | `[Beginner - Intermediate]` | Ultra-fast LLM inference playground powered by Groq's LPU technology |
 | [Qwen AI Chat](https://chat.qwen.ai/) | `[Beginner]` | Advanced multilingual AI chat interface by Alibaba Cloud |
+| [YouLearn AI](https://www.youlearn.ai/) | `[Beginner]` | AI-powered learning platform that helps you learn from any content including videos, PDFs, and web pages |
 
 ## Enterprise AI Solutions
 

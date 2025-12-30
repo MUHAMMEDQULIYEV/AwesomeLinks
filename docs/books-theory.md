@@ -13,7 +13,7 @@ Comprehensive collection of books, academic texts, and theoretical resources for
 
 | Repository | Difficulty | Description |
 |----------|------------|-------------|
-| [Mathematics for Machine Learning Book](https://github.com/mml-book/mml-book.github.io) | `[Intermediate]` | Open-source book covering essential mathematics for ML: linear algebra, probability, and optimization |
+| [Mathematics for Machine Learning Book](https://github.com/mml-book/mml-book.github.io) | `[Intermediate]` | Open-source book covering essential mathematics for ML: linear algebra, probability, and optimization - [Direct PDF](https://github.com/mml-book/mml-book.github.io/blob/master/book/mml-book.pdf) |
 | [Fundamental Math for ML](https://github.com/sonasejidli/Fundamental-Math-for-ML) | `[Beginner - Intermediate]` | Essential mathematics foundations for machine learning including linear algebra, calculus, and statistics |
 
 ## Deep Learning & Neural Networks
