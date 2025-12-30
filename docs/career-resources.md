@@ -17,6 +17,7 @@ Resources for job hunting, interview preparation, and career development in tech
 | [ML System Design Case Studies](https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies) | `[Advanced]` | Curated collection of real-world ML system design case studies from top tech companies covering architecture, scaling, and deployment patterns |
 | [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) | `[Intermediate - Advanced]` | Extensive list of back-end interview questions covering architecture, databases, and best practices |
 | [Awesome LeetCode Resources](https://github.com/ashishps1/awesome-leetcode-resources) | `[Beginner - Advanced]` | Curated patterns, templates, and structured approach to mastering LeetCode coding interview problems |
+| [HackerRank Practice](https://github.com/marinskiy/HackerrankPractice) | `[All Levels]` | 170+ solutions to HackerRank practice problems using Python 3, C++, and Oracle SQL for coding interview preparation |
 
 ---
 
