@@ -171,6 +171,7 @@ A comprehensive, curated collection of resources for AI, Machine Learning, Data 
 
 | Resource | Type | Description |
 |----------|------|-------------|
+| [Fast.ai](https://www.fast.ai/) | 🎓 Platform | Practical deep learning courses focused on making neural networks accessible - from foundations to cutting-edge research |
 | [ML Visualized](https://ml-visualized.com/) | 🎓 Interactive | Interactive visual explanations of machine learning concepts and algorithms |
 | [DataCamp](https://www.datacamp.com/pricing?period=yearly) | 🎓 Platform | Interactive platform with hands-on data science, ML, and analytics courses |
 | [Codedex Python](https://www.codedex.io/python) | 🎓 Interactive | Gamified, interactive Python learning platform for beginners |
@@ -196,6 +197,7 @@ A comprehensive, curated collection of resources for AI, Machine Learning, Data 
 |----------|-------------|
 | [Public APIs](https://github.com/public-apis/public-apis?sfnsn=wa) | Massive collection of 1400+ free APIs for software and web development |
 | [OpenAPI Directory](https://github.com/APIs-guru/openapi-directory?sfnsn=wa) | Wikipedia for Web APIs - largest directory of machine-readable API specifications |
+| [NASA APIs](https://api.nasa.gov/) | Access NASA's extensive collection of public APIs for astronomy, earth science, satellite imagery, and space exploration data |
 
 ---
 
@@ -245,6 +247,15 @@ A comprehensive, curated collection of resources for AI, Machine Learning, Data 
 | [Linus Tech Tips](https://www.youtube.com/@LinusTechTips) | 💻 Hardware | Tech reviews, PC builds, and cutting-edge hardware coverage |
 | [3Blue1Brown](https://www.youtube.com/@3blue1brown) | 📐 Math | Beautiful mathematical animations and explanations |
 | [StatQuest](https://www.youtube.com/@statquest) | 📊 Statistics | Clear explanations of statistics and ML concepts |
+
+### 📺 Educational Videos & Playlists
+
+| Video/Playlist | Topic | Link |
+|----------------|-------|------|
+| Educational Content | Various | [Watch Video](https://www.youtube.com/watch?v=lvO88XxNAzs&t=16s) |
+| Learning Playlist | Tutorial Series | [View Playlist](https://www.youtube.com/watch?v=J7T2LGUCSVI&list=PLPTV0NXA_ZSj6wNbdjyP96NZR7a9st0hn) |
+| Educational Video | Tech/Learning | [Watch Video](https://www.youtube.com/watch?v=jWQ7eKglSv8) |
+| Tutorial Video | Development | [Watch Video](https://www.youtube.com/watch?v=8QC3Z1GNU_4) |
 
 ---
 
