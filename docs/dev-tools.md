@@ -42,6 +42,7 @@ Essential development tools, utilities, and resources for building software and 
 
 | Repository | Difficulty | Description |
 |----------|------------|-------------|
+| [Apache Superset](https://github.com/apache/superset) | `[Intermediate - Advanced]` | Modern enterprise-ready business intelligence platform for data visualization and exploration with rich charting capabilities |
 | [Streamlit](https://github.com/streamlit/streamlit) | `[Beginner - Intermediate]` | Fast way to build and share data apps - turn Python scripts into interactive web apps with minimal code |
 | [Matplotlib Tutorial](https://github.com/rougier/matplotlib-tutorial) | `[Beginner - Intermediate]` | Comprehensive matplotlib tutorial covering visualization techniques from basics to advanced |
 | [Black Hole Visualization](https://github.com/kavan010/black_hole) | `[Advanced]` | Creative black hole visualization project demonstrating advanced graphics and physics simulation |
