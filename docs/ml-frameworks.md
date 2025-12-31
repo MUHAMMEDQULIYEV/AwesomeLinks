@@ -18,6 +18,7 @@ Essential libraries and frameworks for machine learning, deep learning, and AI d
 | [TensorFlow](https://github.com/tensorflow/tensorflow) | `[Intermediate - Advanced]` | Google's end-to-end open-source machine learning platform with comprehensive ecosystem (180k+ stars) |
 | [TensorFlow/Keras](https://github.com/keras-team/keras) | `[Beginner - Intermediate]` | High-level neural networks API, now integrated with TensorFlow, designed for fast experimentation |
 | [Google Flax](https://github.com/google/flax) | `[Advanced]` | Neural network library built on JAX for high-performance ML research with flexibility |
+| [MLX](https://github.com/ml-explore/mlx) | `[Intermediate - Advanced]` | Array framework for machine learning on Apple silicon with NumPy-like API, unified memory, and dynamic graph construction |
 
 ## Traditional Machine Learning
 
