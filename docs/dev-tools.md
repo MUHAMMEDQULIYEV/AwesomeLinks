@@ -30,6 +30,7 @@ Essential development tools, utilities, and resources for building software and 
 | [python-docx](https://github.com/python-openxml/python-docx) | `[Beginner - Intermediate]` | Python library for creating and updating Microsoft Word (.docx) files programmatically |
 | [eBook2Audiobook](https://github.com/DrewThomasson/ebook2audiobook) | `[Beginner]` | Convert eBooks (PDF, EPUB) to audiobooks using text-to-speech with various voice options |
 | [TextLasso](https://github.com/AzizNadirov/textlasso) | `[Intermediate]` | Advanced text extraction and processing tool for NLP pipelines and data preparation |
+| [ParVuEx](https://github.com/BradXiao/ParVuEx) | `[Beginner - Intermediate]` | Enhanced Parquet/CSV viewer with SQL query execution using DuckDB, featuring syntax highlighting and data statistics |
 | [Dash MCP Server](https://github.com/Kapeli/dash-mcp-server) | `[Intermediate]` | Model Context Protocol server for Dash documentation tool integration |
 
 ## System Design & Architecture
