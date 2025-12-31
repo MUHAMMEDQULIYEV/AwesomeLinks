@@ -36,6 +36,7 @@ Modern AI tools, platforms, and applications for working with large language mod
 | [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps?sfnsn=wa) | `[Intermediate]` | Curated list of production-ready LLM applications with source code |
 | [LangChain API Reference](https://api.python.langchain.com/en/latest/langchain_api_reference.html) | `[Intermediate - Advanced]` | Complete API documentation for building LLM-powered applications with LangChain |
 | [Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel) | `[Intermediate - Advanced]` | Microsoft's SDK for integrating LLMs with conventional programming languages |
+| [DeepTutor](https://github.com/HKUDS/DeepTutor) | `[Intermediate - Advanced]` | AI-powered personalized learning assistant with RAG-based Q&A, interactive visualizations, practice problem generation, and deep research capabilities |
 | [FREE OpenAI API Keys](https://github.com/dan1471/FREE-openai-api-keys) | `[Beginner]` | Collection of free OpenAI API key alternatives and workarounds for testing and development |
 
 ## Prompt Engineering Resources
