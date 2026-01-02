@@ -38,6 +38,9 @@ Modern AI tools, platforms, and applications for working with large language mod
 | [Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel) | `[Intermediate - Advanced]` | Microsoft's SDK for integrating LLMs with conventional programming languages |
 | [DeepTutor](https://github.com/HKUDS/DeepTutor) | `[Intermediate - Advanced]` | AI-powered personalized learning assistant with RAG-based Q&A, interactive visualizations, practice problem generation, and deep research capabilities |
 | [FREE OpenAI API Keys](https://github.com/dan1471/FREE-openai-api-keys) | `[Beginner]` | Collection of free OpenAI API key alternatives and workarounds for testing and development |
+| [Learn Claude Code](https://github.com/shareAI-lab/learn-claude-code) | `[Beginner - Intermediate]` | Comprehensive guide to learning and mastering Claude AI coding capabilities |
+| [Polymarket Agents](https://github.com/Polymarket/agents) | `[Intermediate - Advanced]` | AI agents for prediction markets and automated trading on Polymarket |
+| [Awesome Claude Skills](https://github.com/BehiSecc/awesome-claude-skills) | `[Beginner - Intermediate]` | Curated collection of skills, prompts, and techniques for maximizing Claude AI capabilities |
 
 ## Prompt Engineering Resources
 
