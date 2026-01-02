@@ -8,6 +8,7 @@ Comprehensive collection of books, academic texts, and theoretical resources for
 |----------|------------|-------------|
 | [LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch) | `[Intermediate - Advanced]` | Build large language models from the ground up with clear code and step-by-step explanations |
 | [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | `[Intermediate]` | Comprehensive guide to building applications with large language models from fundamentals to deployment |
+| [Harvard CS249r: Tiny Machine Learning](https://github.com/harvard-edge/cs249r_book) | `[Intermediate - Advanced]` | Harvard course book on TinyML - machine learning on embedded and edge devices |
 
 ## Mathematics & Foundations
 

@@ -7,6 +7,7 @@ Resources for learning Linux, systems programming, and low-level computing.
 | Repository | Difficulty | Description |
 |----------|------------|-------------|
 | [Learning Linux](https://github.com/pwittchen/learning-linux) | `[Beginner - Intermediate]` | Comprehensive collection of Linux resources, tutorials, commands, and best practices for mastering Linux systems administration |
+| [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) | `[Beginner - Intermediate]` | Master the command line in one page - essential skills for productivity and fluency with the terminal |
 | [StevenBlack/hosts](https://github.com/StevenBlack/hosts) | `[Beginner - Intermediate]` | Unified hosts file with 86k+ entries for blocking ads, malware, and other unwanted content with optional extensions for porn, social media, and gambling filters |
 
 ## Operating Systems

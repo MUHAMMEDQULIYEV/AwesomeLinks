@@ -14,6 +14,7 @@ Essential development tools, utilities, and resources for building software and 
 | Repository | Difficulty | Description |
 |----------|------------|-------------|
 | [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | `[All Levels]` | Comprehensive collection of cheatsheets for popular programming languages, frameworks, and development tools |
+| [UI/UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | `[Beginner - Intermediate]` | Advanced UI/UX design resources and best practices for creating exceptional user experiences |
 
 ## Learning by Building
 
