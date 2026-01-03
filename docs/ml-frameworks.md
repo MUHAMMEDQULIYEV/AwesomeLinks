@@ -44,6 +44,7 @@ Essential libraries and frameworks for machine learning, deep learning, and AI d
 | Repository | Difficulty | Description |
 |----------|------------|-------------|
 | [Facebook AI Similarity Search (FAISS)](https://github.com/facebookresearch/faiss) | `[Intermediate - Advanced]` | Efficient library for similarity search and clustering of dense vectors, essential for large-scale ML |
+| [PDLP](https://github.com/mmaaz-git/pdlp) | `[Advanced]` | GPU-accelerated primal-dual hybrid gradient solver for linear programming problems using PyTorch with sparse matrix support |
 
 ## Core Programming & Web Frameworks
 
