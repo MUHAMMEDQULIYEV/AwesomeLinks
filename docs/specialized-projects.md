@@ -10,6 +10,7 @@ Hands-on projects and specialized implementations across various domains of AI, 
 | [Disease Prediction using ML](https://github.com/yaswanthpalaghat/Disease-prediction-using-Machine-Learning) | `[Beginner - Intermediate]` | Disease predictor using DecisionTree, RandomForest, and NaiveBayes algorithms based on patient symptoms with tkinter GUI |
 | [Premier League Match Predictions](https://github.com/mar-antaya/2025_pl_predictions) | `[Intermediate]` | Premier League match prediction system using RandomForest classifier with historical match data and team statistics |
 | [ML From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) | `[Intermediate - Advanced]` | Python implementations of ML algorithms from scratch with clear, educational code |
+| [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund) | `[Intermediate - Advanced]` | AI-powered hedge fund system using machine learning for automated trading strategies and market analysis |
 | [LeCun 1989 Reproduction](https://github.com/karpathy/lecun1989-repro) | `[Advanced]` | Andrej Karpathy's reproduction of Yann LeCun's 1989 paper on backpropagation for handwritten digit recognition |
 | [L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) | `[Advanced]` | Advanced ML experimentation and research project exploring novel architectures |
 
