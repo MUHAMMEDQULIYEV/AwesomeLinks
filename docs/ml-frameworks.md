@@ -39,6 +39,12 @@ Essential libraries and frameworks for machine learning, deep learning, and AI d
 | [OpenCV](https://github.com/opencv/opencv) | `[Intermediate]` | Comprehensive open-source computer vision and image processing library with 2500+ optimized algorithms |
 | [Roboflow Supervision](https://github.com/roboflow/supervision) | `[Beginner - Intermediate]` | Computer vision toolkit for working with object detection, segmentation, and tracking models |
 
+## Distributed Computing & Scaling
+
+| Repository | Difficulty | Description |
+|----------|------------|-------------|
+| [Ray](https://github.com/ray-project/ray) | `[Intermediate - Advanced]` | Unified framework for scaling Python and AI/ML applications from a laptop to a cluster with distributed computing |
+
 ## Specialized ML Tools
 
 | Repository | Difficulty | Description |
