@@ -7,6 +7,7 @@ Essential development tools, utilities, and resources for building software and 
 | Repository | Difficulty | Description |
 |----------|------------|-------------|
 | [UV - Python Package Manager](https://github.com/astral-sh/uv) | `[Intermediate]` | Extremely fast Python package installer and resolver written in Rust, 10-100x faster than pip |
+| [Python Build Standalone](https://github.com/astral-sh/python-build-standalone) | `[Advanced]` | Standalone Python builds for packaging and distribution, providing self-contained Python installations |
 | [Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | `[Intermediate]` | Modern Python package manager with advanced dependency resolution and project management features |
 
 ## Developer Reference & Cheatsheets
@@ -30,6 +31,12 @@ Essential development tools, utilities, and resources for building software and 
 |----------|------------|-------------|
 | [LazyVim](https://github.com/LazyVim/LazyVim) | `[Intermediate]` | Neovim config powered by lazy.nvim - a pre-configured setup that makes it easy to get started with modern Neovim |
 | [lazygit](https://github.com/jesseduffield/lazygit) | `[Beginner - Intermediate]` | Simple terminal UI for git commands - intuitive interface for managing git repositories without memorizing complex commands |
+
+## Workflow Automation
+
+| Repository | Difficulty | Description |
+|----------|------------|-------------|
+| [n8n](https://github.com/n8n-io/n8n) | `[Intermediate]` | Free and open-source workflow automation tool with a visual editor for connecting different services and APIs |
 
 ## Specialized Utilities
 

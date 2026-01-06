@@ -24,6 +24,7 @@ Hands-on projects and specialized implementations across various domains of AI, 
 | [Plant Disease Detection](https://github.com/manthan89-py/Plant-Disease-Detection) | `[Intermediate]` | Deep learning model for identifying and classifying plant diseases from leaf images using CNN |
 | [Automatic Leaf Infection Identifier](https://github.com/johri-lab/Automatic-leaf-infection-identifier) | `[Intermediate]` | Automated system for detecting and analyzing leaf infections using machine learning techniques |
 | [Dogs Emotional Behaviour Classification](https://github.com/orujovshah/Classification-of-Dogs-Emotional-Behaviour) | `[Intermediate]` | ML model for classifying and analyzing dogs' emotional states from images and videos |
+| [Sign Language Detection Using CNN](https://github.com/kumarvivek9088/SignLanguageDetectionUsingCNN) | `[Intermediate]` | Deep learning project for real-time sign language gesture recognition using Convolutional Neural Networks |
 
 ## Python Practice & Projects
 
