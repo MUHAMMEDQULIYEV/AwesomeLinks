@@ -38,6 +38,12 @@ Essential development tools, utilities, and resources for building software and 
 |----------|------------|-------------|
 | [n8n](https://github.com/n8n-io/n8n) | `[Intermediate]` | Free and open-source workflow automation tool with a visual editor for connecting different services and APIs |
 
+## Database & No-Code Platforms
+
+| Repository | Difficulty | Description |
+|----------|------------|-------------|
+| [NocoDB](https://github.com/nocodb/nocodb) | `[Beginner - Intermediate]` | Open-source Airtable alternative - turns any MySQL, PostgreSQL, SQL Server, SQLite or MariaDB into a smart spreadsheet with REST APIs, no-code interface, and rich features |
+
 ## Specialized Utilities
 
 | Repository | Difficulty | Description |
