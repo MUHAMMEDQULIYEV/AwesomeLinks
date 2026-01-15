@@ -18,6 +18,7 @@ Hands-on projects and specialized implementations across various domains of AI, 
 
 | Repository | Difficulty | Description |
 |----------|------------|-------------|
+| [Roboflow Notebooks](https://github.com/roboflow/notebooks) | `[Beginner - Advanced]` | Collection of interactive computer vision notebooks covering object detection, segmentation, classification, and tracking with state-of-the-art models |
 | [Computer Vision Projects Collection](https://github.com/Aryan-Chharia/Computer-Vision-Projects) | `[Intermediate]` | Diverse portfolio of computer vision projects covering object detection, segmentation, and recognition |
 | [Learn OpenCV](https://github.com/spmallick/learnopencv) | `[Beginner - Advanced]` | Comprehensive collection of OpenCV tutorials and projects from beginner to advanced level |
 | [Breast Cancer Classifier](https://github.com/nyukat/breast_cancer_classifier) | `[Advanced]` | Deep learning model for breast cancer classification from mammography images |

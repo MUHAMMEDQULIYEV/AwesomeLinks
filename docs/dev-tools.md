@@ -14,6 +14,7 @@ Essential development tools, utilities, and resources for building software and 
 
 | Repository | Difficulty | Description |
 |----------|------------|-------------|
+| [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | `[All Levels]` | Comprehensive collection of useful websites every programmer should know - from learning resources to coding challenges and developer tools |
 | [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | `[All Levels]` | Comprehensive collection of cheatsheets for popular programming languages, frameworks, and development tools |
 | [UI/UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | `[Beginner - Intermediate]` | Advanced UI/UX design resources and best practices for creating exceptional user experiences |
 
@@ -22,6 +23,7 @@ Essential development tools, utilities, and resources for building software and 
 | Repository | Difficulty | Description |
 |----------|------------|-------------|
 | [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) | `[Intermediate - Advanced]` | Learn by building your own versions of popular technologies (databases, compilers, web servers, etc.) |
+| [OpenCode](https://github.com/anomalyco/opencode) | `[Beginner - Intermediate]` | Collection of open-source code examples and learning projects for developers at various skill levels |
 | [App Ideas](https://github.com/florinpop17/app-ideas) | `[All Levels]` | Collection of 100+ application ideas to improve coding skills across different difficulty levels |
 | [Learn API Design](https://github.com/dwyl/learn-api-design) | `[Intermediate]` | Essential learning for designing performant, scalable RESTful APIs covering best practices, testing, documentation, and real-world examples |
 

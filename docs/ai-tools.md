@@ -42,6 +42,7 @@ Modern AI tools, platforms, and applications for working with large language mod
 | [Polymarket Agents](https://github.com/Polymarket/agents) | `[Intermediate - Advanced]` | AI agents for prediction markets and automated trading on Polymarket |
 | [Awesome Claude Skills](https://github.com/BehiSecc/awesome-claude-skills) | `[Beginner - Intermediate]` | Curated collection of skills, prompts, and techniques for maximizing Claude AI capabilities |
 | [Claude Cookbooks](https://github.com/anthropics/claude-cookbooks) | `[Beginner - Intermediate]` | Official Anthropic cookbook with practical recipes and examples for building with Claude AI |
+| [Claude-Mem](https://github.com/thedotmack/claude-mem) | `[Intermediate]` | Memory management system for Claude AI enabling persistent context and conversation history across sessions |
 
 ## Prompt Engineering Resources
 
